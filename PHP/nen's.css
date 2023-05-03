@@ -1,0 +1,117 @@
+body {
+  background-image:url(images/background.jpg);
+}
+body {
+  color: darkgray;
+;
+}
+
+h1 {
+  text-shadow: 2px 2px black;
+}
+
+h2 {
+  text-shadow: 2px 2px black;
+}
+
+h3 {
+  text-shadow: 2px 2px black;
+}
+
+h4 {
+  text-shadow: 2px 2px black;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+
+
+
+h2{  
+    color:#D93B29;
+    margin-bottom:0;
+    background-color:darkgray;
+    background-position: right;
+    padding-bottom:5px;
+    font-family:"Georgia, Time New Roman, serif";
+    font-weight: bold;
+}
+
+   
+
+.p1 {
+  font-family:"Lucida Console", "Corier New", monospace;
+
+}
+   
+
+}
+
+footer{
+    color:#A1D6BA;
+    font-size:75%;
+    font-style: bold;
+    text-align:center;
+    font-family:"Georgia, Time New Roman, serif";
+    padding: 20px;
+    margin-left:190px;
+    clear:both;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D93B29;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: darkgray;
+}
+
+.active {
+  background-color:#D93B29;
+}
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+</style>
+
+
+</style>
+</head>
+
+
+
+
